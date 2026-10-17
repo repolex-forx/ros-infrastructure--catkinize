@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "ros-infrastructure",
+  "repo": "catkinize",
+  "versions": [
+    {
+      "commit": "11d660c52f6a4b42483904d93a6d7326aa564b7a",
+      "parsed_at": "2026-10-17T23:25:14.417033+00:00",
+      "filetree": "filetree/11d660c52f6a4b42483904d93a6d7326aa564b7a.nq.gz",
+      "blobs": [
+        "blob/2be15a28c240e4005030453f5109d6d62d569d7d.nq.gz",
+        "blob/44209e82b542fe5ae9d40d89134ccb2049223a29.nq.gz",
+        "blob/f87a7b6da640ec0fcc60a229e5c0434c02aaa1b4.nq.gz",
+        "blob/0d16e53e5301986893aee7a7fcfd4d6c32eeb452.nq.gz",
+        "blob/84dacb43c71963e4de6d9b184f22d304769a7fcf.nq.gz",
+        "blob/c2b1f391a7b9c0716f38bbe570456d71d5d17db7.nq.gz",
+        "blob/64d3a44e81d8489ac562323cb6b4178922fcd71b.nq.gz",
+        "blob/6f383e0dece2014d63755d6be086fe0c660f2c0b.nq.gz",
+        "blob/2aaccad9c4d19ed663499119d76efaa8f3b826aa.nq.gz",
+        "blob/1f837a3860e3d55a68066661298f52f71de4c46d.nq.gz",
+        "blob/0447782357d8817e7b91447d277e4ce024808cf1.nq.gz",
+        "blob/9f1525256f5784b376656d0fa659e2de9b2f8799.nq.gz",
+        "blob/bd2006fff762a9e517deb6b94de3b7f49d91779b.nq.gz",
+        "blob/f52e80ba78ee699552d87f2af9a614c80ea3e757.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/7337daabf82969253aff327cf710f4b40114b71c.nq.gz",
+        "blob/a83e370f328ed81dab3858504d74264917ae733e.nq.gz",
+        "blob/091d84ce65dde7db95e2eaab1282503008e910ee.nq.gz",
+        "blob/d6868573f4f6b7ad4d5bb121eabc8e201a695bdd.nq.gz",
+        "blob/5dbb437045b87eab43c5b544fb9878f495761eaa.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
